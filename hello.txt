@@ -7,7 +7,6 @@ Hello Git World!!Hello Reese!!!
 Hello Git World!!Hello Reese!!!
 Hello Git World!********
 **********#######
-git now.
-git now.
 git now.	hot-fix test
 git now.	master-test
+git now.	hot-fix-test
